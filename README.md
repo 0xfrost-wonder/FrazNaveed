@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fraz Naveed</h1>
 <h3 align="center">A passionate blockchain developer from Pakistan</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/FrazNaveed](https://github.com/FrazNaveed)
+- 👨‍💻 All of my projects are available at: https://github.com/FrazNaveed
 
 - 📫 React me at: **faraznaveed8.fn@gmail.com**
 
 <h3 align="left">Connect me at:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fraz-naveed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fraz-naveed/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/01_134181_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="01_134181_021" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
