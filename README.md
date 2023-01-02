@@ -20,12 +20,7 @@
 <p align="left"> 
   <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" alt="truffle" width="40" height="40"/> </a>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>
-  
-  <a href="https://remix-project.org/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" alt="remix-ide" width="40" height="40"/> </a>
-  
-<!--     <a href="https://remix-project.org/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" alt="remix-ide" width="40" height="40"/> </a> -->
-  
-    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="ethereum" width="40" height="40"/> </a>
+ 
   
 
 </p>
