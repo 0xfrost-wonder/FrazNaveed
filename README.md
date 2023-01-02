@@ -23,7 +23,7 @@
   
   <a href="https://remix-project.org/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" alt="remix-ide" width="40" height="40"/> </a>
   
-    <a href="https://remix-project.org/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" alt="remix-ide" width="40" height="40"/> </a>
+<!--     <a href="https://remix-project.org/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" alt="remix-ide" width="40" height="40"/> </a> -->
   
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="  https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg
 " alt="ethereum" width="40" height="40"/> </a>
