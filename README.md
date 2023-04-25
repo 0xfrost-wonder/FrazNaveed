@@ -2,8 +2,7 @@
 <h3 align="center">A passionate blockchain developer from Pakistan</h3>
 
 - 👨‍💻 All of my projects are available at: https://github.com/FrazNaveed
-
-- 📫 React me at: **faraznaveed8.fn@gmail.com**
+- 📫 Reach me at: **faraznaveed8.fn@gmail.com**
 
 <h3 align="left">Connect me at:</h3>
 <p align="left">
