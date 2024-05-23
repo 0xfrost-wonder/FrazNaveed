@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Web+Developer;Blockchain+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning Rust/Substrate
-- 🥅 2023 Goals: Learn more about web3 and best practices of web development
 - ⚡ Hobbies: I love to do gaming
 
 ### Languages and Tools :
